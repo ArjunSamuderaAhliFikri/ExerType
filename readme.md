@@ -14,11 +14,11 @@ This application is made with the C Programming Language.
 
 The first way if you want to try the Exertype application, you have to follow these steps:
 
-# Important
+## Important
 
 **_I'll make sure you've installed a compiler first, here I'll use gcc as the compiler as an example._**
 
-# Please, Install :
+## Please, Install :
 
 - Compiler for C ( for example, i used [gcc](https://sourceforge.net/projects/gcc-win64/) for compiler C )
 
@@ -31,14 +31,7 @@ If you confuse about how to install gcc in your PC, i suggest you to see this do
 If you have done install your compiler, please following this steps :
 
 ```
-// open your CLI ( i recommended gitbash ) *** Make sure you already install git in your PC ***
-git clone https://github.com/ArjunSamuderaAhliFikri/ExerType.git
-git remote add origin https://github.com/ArjunSamuderaAhliFikri/ExerType.git // recommended, for git pull
-
-// Instalation steps
 gcc main.c -o main.exe
-
-// Next steps
 ./main.exe
 ```
 
