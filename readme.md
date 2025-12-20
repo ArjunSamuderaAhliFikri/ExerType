@@ -36,7 +36,7 @@ gcc main.c -o main
 ./main
 ```
 
-**_Note: For Windows users, use main.exe instead of ./main_**
+**_Note: For Windows users, use `main.exe` instead of `./main`_**
 
 ## 🤝 Contributing
 
