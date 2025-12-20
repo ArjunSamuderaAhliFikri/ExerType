@@ -1,38 +1,43 @@
-# 🚀 Welcome to ExerType App !
+# 🚀 ExerType App
 
-This is application typing test via terminal for improve your typing test!
+ExerType is a minimalist terminal-based typing test application built to help you improve your typing speed and accuracy directly from your command line.
 
-## 📝 Note :
+---
 
-Project is open source, you can build, modify, with version yourself!
+## 📝 Project Note
 
-## 🏗️ Tech Foundation :
+This project is **Open Source**. Feel free to build, modify, and distribute your own version! Contributions are always welcome.
 
-This application is made with the C Programming Language.
+## 🏗️ Tech Foundation
 
-## 🗣️ How can i using Exertype app ?
+This application is developed using the **C Programming Language**, focusing on performance and simplicity.
 
-The first way if you want to try the Exertype application, you have to follow these steps:
+## 🛠️ Prerequisites
 
-## Important
+Before using ExerType, make sure you have a C compiler installed. We recommend using **GCC**.
 
-**_I'll make sure you've installed a compiler first, here I'll use gcc as the compiler as an example._**
+- **Compiler:** [Download GCC for Windows](https://sourceforge.net/projects/gcc-win64/)
+- **Guide:** [How to install GCC on Windows](https://phoenixnap.com/kb/install-gcc-windows)
 
-## Please, Install :
+## 🚀 Installation & Usage
 
-- Compiler for C ( for example, i used [gcc](https://sourceforge.net/projects/gcc-win64/) for compiler C )
+Follow these steps to compile and run the application on your local machine:
 
-## Guideline Instalation :
+1. **Clone the repository** or download the source code.
+2. **Open your Terminal** or Command Prompt.
+3. **Navigate** to the project directory.
+4. **Compile and Run** using the following commands:
 
-If you confuse about how to install gcc in your PC, i suggest you to see this documentation (Install GCC Compiler for C)[https://phoenixnap.com/kb/install-gcc-windows]
+```bash
+# Compile the source code
+gcc main.c -o ExerType
 
-## Instalation
-
-If you have done install your compiler, please following this steps :
-
+# Run the application
+./ExerType
 ```
-gcc main.c -o main.exe
-./main.exe
-```
 
-# Thank You for your attention! see you on the next Update for ExerType App!
+## 🤝 Contributing
+
+Feel free to fork this project and submit pull requests. Let's make typing practice more fun!
+
+Thank you for checking out ExerType! See you in the next update.
