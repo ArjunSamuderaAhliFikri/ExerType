@@ -29,12 +29,14 @@ Follow these steps to compile and run the application on your local machine:
 4. **Compile and Run** using the following commands:
 
 ```bash
-# Compile the source code
-gcc main.c -o ExerType
+# Compile the program
+gcc main.c -o main
 
 # Run the application
-./ExerType
+./main
 ```
+
+**_Note: For Windows users, use main.exe instead of ./main_**
 
 ## 🤝 Contributing
 
